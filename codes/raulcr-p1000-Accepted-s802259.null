@@ -1,0 +1,1 @@
+program:-readln(L),nth0(0,L,A),nth0(1,L,B),C is A+B,write(C).
